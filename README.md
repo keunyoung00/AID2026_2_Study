@@ -1,4 +1,4 @@
-# [말뭉치작업반 (Corpus_Working_Group)]
+# 말뭉치작업반 (Corpus_Working_Group)
 
 ## 👋 팀 소개
 

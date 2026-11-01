@@ -83,7 +83,7 @@
 | 주차 | 링크 |
 |---|---|
 | Week 01 | [바로가기](./WEEK_01_README.md) |
-| Week 02 | [바로가기](./week02/WEEK_02_README.md) |
+| Week 02 | [바로가기](https://github.com/keunyoung00/AID2026_2_Study/blob/Corpus_Working_Group/week02/WEEK_02_README.md) |
 | Week 03 | [바로가기](./week03/) |
 | Week 04 | [바로가기](./week04/) |
 | Week 05 | [바로가기](./week05/) |
